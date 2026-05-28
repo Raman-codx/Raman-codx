@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Raman
 
-<!--
-**Raman-codx/Raman-codx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
+💻 Learning Programming & Development
+🚀 Beginner in C, C++, Web Development & App Development
+📚 Currently improving coding skills daily
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C Programming
+* Basic C++
+* HTML
+* Git & GitHub
+
+## Projects
+
+* Quiz Game in C
+* Calculator in C
+* Guessing Game in C
+
+## Goals
+
+* Become Full Stack Developer
+* Learn App Development
+* Start Freelancing
