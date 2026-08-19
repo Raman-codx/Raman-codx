@@ -2,7 +2,7 @@
 
 🎓 BCA Student
 💻 Learning Programming & Development
-🚀 Beginner in C, C++, Web Development & App Development
+🚀 Beginner in C, C++,Python, Web Development & App Development
 📚 Currently improving coding skills daily
 
 ## Skills
