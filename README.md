@@ -9,7 +9,7 @@
 
 * C Programming
 * Basic C++
-* HTML
+* HTML,CSS,JAVASCRIPT
 * Git & GitHub
 
 ## Projects
